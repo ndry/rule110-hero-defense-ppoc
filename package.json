@@ -1,5 +1,5 @@
 {
-  "name": "irregular-grid-flood-fill-game",
+  "name": "rule110-hero-defense-ppoc",
   "private": true,
   "scripts": {
     "cbuild": "tsc",
